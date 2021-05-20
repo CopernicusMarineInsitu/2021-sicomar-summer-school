@@ -1,0 +1,19 @@
+name: insitu-arc-2020-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - shapely
+  - folium
+  - cartopy
+  - pip
+  - pip:
+    - IPython
+    - pandas
+    - json2html
+    - ftputil
+    - matplotlib
+    - netCDF4
+    - xarray
+    - branca

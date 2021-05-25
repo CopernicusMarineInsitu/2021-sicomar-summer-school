@@ -1,4 +1,4 @@
-# Managing High Frequency Radar data from the Copernicus Marine Service
+# High Frequency Radar data visualization (Copernicus Marine Service)
 
 _Basic plots for High Frequency Radar: antennas, coverage, vectors, performance_
 
@@ -16,7 +16,7 @@ _Paz Rotllán García | protllan@socib.es | https://github.com/pazrg/_
 ## Thanks! 🎁
 
 * 2021 Sicomar HFR summer school 📢
-* Emma Reyes Reyes (ereyes@socib.es).
+* European HFR node (euhfrnode@azti.es).
 * [Copernicus Marine Service](https://marine.copernicus.eu/) and [CMEMS In Situ TAC](http://marineinsitu.eu/)
 
 ## Copyright 📄

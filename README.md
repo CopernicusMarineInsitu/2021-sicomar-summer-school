@@ -1,8 +1,8 @@
-# High Frequency Radar data visualization (Copernicus Marine Service)
+<h1 style="text-align: center"> High Frequency Radar data visualization (Copernicus Marine Service)</h1>
 
 _Basic plots for High Frequency Radar: antennas, coverage, vectors, performance_
 
-<img src="vectors.png" width="400" style="max-width:100%;">
+<div style="text-align: center;"><img src="vectors.png" width="400" style="max-width:100%;"></div>
 
 ## Instalation 🔧
 

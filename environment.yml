@@ -1,18 +1,15 @@
-name: insitu-arc-2020-environment
+name: sicomar-2021-environment
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
   - shapely
-  - folium
   - cartopy
+  - geopy
   - pip
   - pip:
-    - IPython
     - pandas
-    - json2html
-    - ftputil
     - matplotlib
     - netCDF4
     - xarray
